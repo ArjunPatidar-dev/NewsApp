@@ -1,0 +1,2 @@
+rootProject.name='Dx-Minds-Task'
+include ':app'
